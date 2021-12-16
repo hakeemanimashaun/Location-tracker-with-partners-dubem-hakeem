@@ -20,6 +20,7 @@ class MainActivity : AppCompatActivity() {
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
+        //request permission on click of button and open map activity
         binding.currentLocation.setOnClickListener {
             requestPermission()
             val intent = Intent(applicationContext, MapsActivity::class.java)
