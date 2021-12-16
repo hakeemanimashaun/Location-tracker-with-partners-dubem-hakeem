@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "740236509710",
+    "firebase_url": "https://geo-tracker-334814-default-rtdb.firebaseio.com",
+    "project_id": "geo-tracker-334814",
+    "storage_bucket": "geo-tracker-334814.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740236509710:android:57d66a3b94a66ea22ef25f",
+        "android_client_info": {
+          "package_name": "com.olamachia.maptrackerweekeighttask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "740236509710-vg5mc3edq1jscj6e9gboq4lbmmiaubgu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiaiPZHap_9u5qvuFb0sNaZDOxCdjxHlI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "740236509710-vg5mc3edq1jscj6e9gboq4lbmmiaubgu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
