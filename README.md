@@ -24,3 +24,4 @@ You are to build a map application to show the exact position of your partner(s)
 Recreate  the pokemon project using livedata and or rxjava. Also your project should react live to network change without closing or opening the app i.e if I turn off and turn it on back I shouldn’t have to click a button to refresh 
 
  
+# Location-tracker-with-partners-dubem-hakeem

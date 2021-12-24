@@ -1,4 +1,4 @@
-package com.olamachia.maptrackerweekeighttask
+package com.olamachia.maptrackerweekeighttask.Model
 
 import com.google.firebase.database.IgnoreExtraProperties
 

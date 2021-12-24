@@ -4,4 +4,5 @@
     <string name="find_user_s_location">find user location</string>
     <string name="title_activity_maps2">MapsActivity2</string>
     <string name="title_activity_maps3">MapsActivity3</string>
+    <string name="show_user_s_location">show_user\'s_location</string>
 </resources>
